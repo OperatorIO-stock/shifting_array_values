@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("shifting_array_values")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+23fda5fe02c0add08c156a06da2136cf903fe357")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5eb08e39b918b0b9937790aed439920faac95d3a")]
 [assembly: System.Reflection.AssemblyProductAttribute("shifting_array_values")]
 [assembly: System.Reflection.AssemblyTitleAttribute("shifting_array_values")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/operatorio/Документы/meCodes/shifting_array_values/shifting_array_values.csproj": {}
+    "/home/operatorio/Документы/meCodes/shifting_array_values/shifting_array_values/shifting_array_values.csproj": {}
   },
   "projects": {
-    "/home/operatorio/Документы/meCodes/shifting_array_values/shifting_array_values.csproj": {
+    "/home/operatorio/Документы/meCodes/shifting_array_values/shifting_array_values/shifting_array_values.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/operatorio/Документы/meCodes/shifting_array_values/shifting_array_values.csproj",
+        "projectUniqueName": "/home/operatorio/Документы/meCodes/shifting_array_values/shifting_array_values/shifting_array_values.csproj",
         "projectName": "shifting_array_values",
-        "projectPath": "/home/operatorio/Документы/meCodes/shifting_array_values/shifting_array_values.csproj",
+        "projectPath": "/home/operatorio/Документы/meCodes/shifting_array_values/shifting_array_values/shifting_array_values.csproj",
         "packagesPath": "/home/operatorio/.nuget/packages/",
-        "outputPath": "/home/operatorio/Документы/meCodes/shifting_array_values/obj/",
+        "outputPath": "/home/operatorio/Документы/meCodes/shifting_array_values/shifting_array_values/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/operatorio/.nuget/NuGet/NuGet.Config"
