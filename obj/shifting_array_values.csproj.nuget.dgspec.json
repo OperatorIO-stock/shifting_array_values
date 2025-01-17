@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/operatorio/Документы/meCodes/shifting_array_values/shifting_array_values/shifting_array_values.csproj": {}
+    "/home/operatorio/Документы/meCodes/lesson_projects/shifting_array_values/shifting_array_values/shifting_array_values.csproj": {}
   },
   "projects": {
-    "/home/operatorio/Документы/meCodes/shifting_array_values/shifting_array_values/shifting_array_values.csproj": {
+    "/home/operatorio/Документы/meCodes/lesson_projects/shifting_array_values/shifting_array_values/shifting_array_values.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/operatorio/Документы/meCodes/shifting_array_values/shifting_array_values/shifting_array_values.csproj",
+        "projectUniqueName": "/home/operatorio/Документы/meCodes/lesson_projects/shifting_array_values/shifting_array_values/shifting_array_values.csproj",
         "projectName": "shifting_array_values",
-        "projectPath": "/home/operatorio/Документы/meCodes/shifting_array_values/shifting_array_values/shifting_array_values.csproj",
+        "projectPath": "/home/operatorio/Документы/meCodes/lesson_projects/shifting_array_values/shifting_array_values/shifting_array_values.csproj",
         "packagesPath": "/home/operatorio/.nuget/packages/",
-        "outputPath": "/home/operatorio/Документы/meCodes/shifting_array_values/shifting_array_values/obj/",
+        "outputPath": "/home/operatorio/Документы/meCodes/lesson_projects/shifting_array_values/shifting_array_values/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/operatorio/.nuget/NuGet/NuGet.Config"
@@ -37,7 +37,7 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
         "SdkAnalysisLevel": "9.0.100"
       },
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/9.0.100-rc.2.24474.1/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
